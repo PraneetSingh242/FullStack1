@@ -1,0 +1,28 @@
+{
+  "name": "fullstack1",
+  "version": "1.0.0",
+  "description": "a node project for authentication system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://githubj.com/PraneetSingh242/FullStack_Project_1.git"
+  },
+  "author": "Praneet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraneetSingh242/FullStack_Project_1/issues"
+  },
+  "homepage": "https://github.com/PraneetSingh242/FullStack_Project_1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
